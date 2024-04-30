@@ -40,8 +40,4 @@ To run this project locally, follow these steps:
 - HTML/CSS/JavaScript
 - Eval Function (JavaScript)
 
-## Credits
-This project is created by [Your Name]. Contributions in the form of bug reports, feature requests, or pull requests are welcome.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
